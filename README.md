@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a Social media App about Luxury world Travelers **
+- 🔭 I’m currently working on **MTB renting/booking App **
 
 - 👨‍💻 All of my projects are available at [https://github.com/karlajrdz/](https://github.com/karlajrdz/)
 
