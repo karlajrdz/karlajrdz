@@ -1,6 +1,6 @@
 ### 👋
 <h1 align="center">Hi there 👋, I'm Karla Rodriguez</h1>
-<h3 align="center">A passionate and curious junior fullstack developer from Costa Rica</h3>
+<h3 align="center">A curious junior fullstack developer from Costa Rica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karlajrdz&label=Profile%20views&color=0e75b6&style=flat" alt="karlajrdz" /> </p>
 
